@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Card,{ About,Service } from './card';
 import logo11 from './logo1.png';
-import logo1 from './web.jpeg';
+import logo1 from './WhatsApp_Image_2023-10-23_at_4.06.05_PM-removebg-preview.png';
 import logo2 from './photo2.jpg';
 import { BrowserRouter, Routes, Route,Link } from "react-router-dom";
 import './style1.css';
